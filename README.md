@@ -3,7 +3,7 @@
 <h2 align="center"> Hi 👋, I'm KuroNeko </h2>
 
 <p align="center">
-    24 years old / From LATAM / WebDev (Jr) + DBA (Jr) / Gamer / Streamer
+    24 years old / From LATAM / WebDev (Jr) + DBA (Jr) FullTime / Gamer / Streamer
 </p>
 
 <p align="center">
