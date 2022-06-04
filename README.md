@@ -4,8 +4,9 @@
 
 <h3>
     👰🏻 25 years old • From LATAM • LGBT (She/Her) <br>
-    💻 Developer & DBA FullTime (Since 2016) <br>
+    💻 Web Developer & DBA FullTime (Since 2016) <br>
     🎮 Foodie • Streamer • Gamer <br>
+    📚 Studying Computer Engineering <br>
     🤖 Creating some Discord/Twitch bots and other projects just for fun.
 </h3>
 
