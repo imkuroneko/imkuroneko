@@ -6,6 +6,7 @@
 💬 Spanish (Native) and English (Basic) <br>
 ⚡ Web Developer & DBA FullTime <br>
 📚 Studying Computer Engineering <br>
+🦄 Mother of unicorns <br>
 💼 Owner of <a href="https://unicodesoft.net">Unicodesoft</a>, <a href="https://whitelistme.app">WhitelistMe</a> and <a href="https://github.com/FiveMCatPanel">FiveMCatPanel</a>
 
 <h3 align="center"> 🌐 Socials </h3>
