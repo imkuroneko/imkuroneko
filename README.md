@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/imkuroneko/imkuroneko/main/banner.png" />
+![banner](https://raw.githubusercontent.com/imkuroneko/imkuroneko/main/banner.png)
 
 <h2 align="center"> 🦄 About Me </h2>
 👰🏻 25 years old • From LATAM • LGBT (She/Her) <br>
