@@ -13,7 +13,7 @@
 
 <h2 align="center"> 📦 Current Major Projects </h2>
 <ul>
-    <li><a href="https://github.com/UnicodeSoft/RemTicketHelper">🎫 RemTicketHelper</a>: Bot de tickets de soporte para Discord</li>
+    <li><a href="https://github.com/UnicodeSoft/RemTicketHelper">🎫 RemTicketHelper</a>: Ticket tool for Discord based on NodeJS & SQLite.</li>
 </ul>
 
 <br><br><br>
