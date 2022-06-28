@@ -1,6 +1,6 @@
-![Banner](https://raw.githubusercontent.com/imkuroneko/imkuroneko/main/banner.png)
+<img src="https://raw.githubusercontent.com/imkuroneko/imkuroneko/main/banner.png" />
 
-<h2 align="center"> 💫 About Me 🦄 </h2>
+<h2 align="center"> 🦄 About Me </h2>
 👰🏻 25 years old • From LATAM • LGBT (She/Her) <br>
 🎮 Foodie • Streamer • Gamer <br>
 💬 Spanish (Native) and English (Basic) <br>
@@ -8,6 +8,15 @@
 📚 Studying Computer Engineering <br>
 🦄 Mother of unicorns <br>
 💼 Owner of <a href="https://unicodesoft.net">Unicodesoft</a>, <a href="https://whitelistme.app">WhitelistMe</a> and <a href="https://github.com/FiveMCatPanel">FiveMCatPanel</a>
+
+<br><br>
+
+<h2 align="center"> 📦 Current Major Projects </h2>
+<ul>
+    <li><a href="https://github.com/UnicodeSoft/RemTicketHelper">🎫 RemTicketHelper</a>: Bot de tickets de soporte para Discord</li>
+</ul>
+
+<br><br><br>
 
 <h3 align="center"> 🌐 Socials </h3>
 <p align="center">
@@ -17,6 +26,8 @@
     <a target="_blank" href="https://twitter.com/im_kuroneko"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"/></a> &nbsp;
     <a target="_blank" href="https://keybase.io/imkuroneko"><img alt="Keybase" src="https://img.shields.io/badge/Keybase-25c8f5?style=flat&logo=keybase&logoColor=white"/></a>
 </p>
+
+<br>
 
 <h3 align="center"> 💻 Tech Stack </h3>
 <p align="center">
@@ -41,28 +52,19 @@
     <img alt="SQLite" src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/>
 </p>
 <p align="center">
-    <img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white"/> &nbsp;
-    <img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white"/>
-</p>
-<p align="center">
     <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white"/> &nbsp;
     <img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white"/>
 </p>
-<p align="center">
-    <img alt="Adobe After Effects" src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white"/> &nbsp;
-    <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white"/> &nbsp;
-    <img alt="Adobe Audition" src="https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=flat&logo=Adobe%20Audition&logoColor=white"/> &nbsp;
-    <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white"/>
-</p>
 
+<br>
 
 <h3 align="center"> 📊 GitHub Stats </h3>
 <p align="center">
     <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=imkuroneko&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true"/> &nbsp;
-    <img alt="Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=imkuroneko&theme=midnight-purple&hide_border=true"/> &nbsp;
     <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imkuroneko&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
 </p>
 
+<br>
 
 <h3 align="center"> 💰You can help me by Donating </h3>
 <p align="center">
