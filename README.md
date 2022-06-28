@@ -41,8 +41,7 @@
     <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white"/> &nbsp;
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"/> &nbsp;
     <img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white"/> &nbsp;
-    <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white"/> &nbsp;
-    <img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white"/>
+    <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white"/>
 </p>
 <p align="center">
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white"/> &nbsp;
@@ -53,7 +52,10 @@
 </p>
 <p align="center">
     <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white"/> &nbsp;
-    <img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white"/>
+    <img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white"/> &nbsp;
+    <img alt="Railway" src="https://img.shields.io/badge/Railway-%23a335df.svg?style=flat&logo=PM2&logoColor=white"/> &nbsp;
+    <img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white"/> &nbsp;
+    <img alt="PM2" src="https://img.shields.io/badge/PM2-%2336117e.svg?style=flat&logo=PM2&logoColor=white"/>
 </p>
 
 <br>
