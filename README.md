@@ -7,13 +7,13 @@
 ⚡ Web Developer & DBA FullTime <br>
 📚 Studying Computer Engineering <br>
 🦄 Mother of unicorns <br>
-💼 Owner of <a href="https://unicodesoft.net">Unicodesoft</a>, <a href="https://whitelistme.app">WhitelistMe</a> and <a href="https://github.com/FiveMCatPanel">FiveMCatPanel</a>
+💼 Owner of <a href="https://whitelistme.app">WhitelistMe</a> and <a href="https://github.com/FiveMCatPanel">FiveMCatPanel</a>
 
 <br><br>
 
 <h2 align="center"> 📦 Current Major Projects </h2>
 <ul>
-    <li><a href="https://github.com/UnicodeSoft/RemTicketHelper">🎫 RemTicketHelper</a>: Ticket tool for Discord based on NodeJS & SQLite.</li>
+    <li><a href="https://github.com/imkuroneko/RemTicketHelper">🎫 RemTicketHelper</a>: Ticket tool for Discord based on NodeJS & SQLite.</li>
 </ul>
 
 <br><br><br>
