@@ -1,19 +1,15 @@
 ![banner](https://kuroneko.im/web_assets/github_banner.jpg)
 
 <h2 align="center"> 🦄 About Me </h2>
-👰🏻 25 years old • From LATAM • LGBT (She/Her) <br>
-🎮 Foodie • Streamer • Gamer <br>
-💬 Spanish (Native) and English (Basic) <br>
-⚡ Web Developer & DBA FullTime <br>
-📚 Studying Computer Engineering <br>
-🦄 Mother of unicorns <br>
-💼 Owner of <a href="https://github.com/unicodews">UnicodeWS</a>, <a href="https://whitelistme.app">WhitelistMe</a> and <a href="https://github.com/FiveMCatPanel">FiveMCatPanel</a>
+<p align="center">
+👰🏻⠀25 years old &nbsp; 🏳️‍⚧️⠀LGBT (She/Her) &nbsp; 🌎⠀From LATAM &nbsp; 🍕⠀Foodie &nbsp; 🎥⠀Streamer &nbsp; 🎮⠀Gamer &nbsp; 💬⠀Spanish (Native) and English (Basic) &nbsp; ⚡⠀Web Developer & DBA FullTime &nbsp; 📚⠀Studying Computer Engineering &nbsp; 🦄⠀Mother of unicorns
+</p>
 
 <br><br>
 
 <h2 align="center"> 📦 Current Major Projects </h2>
 <ul>
-    <li><a href="https://github.com/unicodews/RemTicketHelper">🎫 RemTicketHelper</a>: Ticket tool for Discord based on NodeJS & SQLite.</li>
+    <li><a href="https://github.com/imkuroneko/RemTicketHelper">🎫 RemTicketHelper</a>: Ticket tool for Discord based on NodeJS & SQLite.</li>
 </ul>
 
 <br><br><br>
