@@ -9,7 +9,8 @@
 
 <h2 align="center"> 📦 Current Major Projects </h2>
 <ul>
-    <li><a href="https://github.com/imkuroneko/RemTicketHelper">🎫 RemTicketHelper</a>: Ticket tool for Discord based on NodeJS & SQLite.</li>
+    <li><a href="https://github.com/imkuroneko/RemTicketHelper">🎫 RemTicketHelper</a>: Ticket tool for discord.</li>
+    <li><a href="https://github.com/imkuroneko/WardBot">🛡 WardBot</a>: A simple Discord bot for track and delete messages if match patterns of p*rn or phishing related to Discord or Steam</a>
 </ul>
 
 <br><br><br>
