@@ -11,6 +11,8 @@
 <ul>
     <li><a href="https://github.com/imkuroneko/RemTicketHelper">🎫 RemTicketHelper</a>: Ticket tool for discord.</li>
     <li><a href="https://github.com/imkuroneko/WardBot">🛡 WardBot</a>: A simple Discord bot for track and delete messages if match patterns of p*rn or phishing related to Discord or Steam</a>
+    <li><a href="https://github.com/imkuroneko/MegumiMusicBot">🎶 MegumiMusicBot</a>: A simple Discord bot for music based on DisTube</a>
+    <li><a href="https://github.com/imkuroneko/DatabaseBackuper">🛢 DatabaseBackuper</a>: A simple Discord bot for backup your database when you need and want it</a>
 </ul>
 
 <br><br><br>
