@@ -2,7 +2,7 @@
 
 <h2 align="center"> 🦄 About Me </h2>
 <p align="center">
-👰🏻⠀25 years old &nbsp; 🏳️‍⚧️⠀LGBT (She/Her) &nbsp; 🌎⠀From LATAM &nbsp; 🍕⠀Foodie &nbsp; 🎥⠀Streamer &nbsp; 🎮⠀Gamer &nbsp; 💬⠀Spanish and English &nbsp; ⚡⠀WebDev & DBA FullTime &nbsp; 📚⠀Studying Computer Engineering &nbsp; 🦄⠀Mother of unicorns
+👰🏻⠀26 years old &nbsp; 🏳️‍⚧️⠀LGBT (She/Her) &nbsp; 🌎⠀From LATAM &nbsp; 🍕⠀Foodie &nbsp; 🎥⠀Streamer &nbsp; 🎮⠀Gamer &nbsp; 💬⠀Spanish and English &nbsp; ⚡⠀WebDev & DBA FullTime &nbsp; 📚⠀Studying Computer Engineering &nbsp; 🦄⠀Mother of unicorns
 </p>
 
 <br><br>
