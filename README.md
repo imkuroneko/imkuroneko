@@ -5,6 +5,12 @@
 👰🏻⠀26 years old &nbsp; 🏳️‍⚧️⠀LGBT (She/Her) &nbsp; 🌎⠀From LATAM &nbsp; 🍕⠀Foodie &nbsp; 🎥⠀Streamer &nbsp; 🎮⠀Gamer &nbsp; 💬⠀Spanish and English &nbsp; ⚡⠀WebDev & DBA FullTime &nbsp; 📚⠀Studying Computer Engineering &nbsp; 🦄⠀Mother of unicorns
 </p>
 
+<br>
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=imkuroneko&label=Vistas+del+perfil&color=blueviolet&style=plastic"/>
+</p>
+
 <br><br>
 
 <h2 align="center"> 📦 Current Major Projects </h2>
