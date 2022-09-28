@@ -58,7 +58,7 @@
 <p align="center">
     <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white"/> &nbsp;
     <img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white"/> &nbsp;
-    <img alt="Railway" src="https://img.shields.io/badge/Railway-%23a335df.svg?style=flat&logo=PM2&logoColor=white"/> &nbsp;
+    <img alt="Railway" src="https://img.shields.io/badge/Railway-%23a335df.svg?style=flat&logo=Railway&logoColor=white"/> &nbsp;
     <img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white"/> &nbsp;
     <img alt="PM2" src="https://img.shields.io/badge/PM2-%2336117e.svg?style=flat&logo=PM2&logoColor=white"/>
 </p>
