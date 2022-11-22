@@ -73,8 +73,16 @@
 
 <br>
 
-<h3 align="center"> 💰You can help me by Donating </h3>
+<h3 align="center"> 💰 You can help me by Donating </h3>
 <p align="center">
     <a target="_blank" href="https://paypal.me/imkuroneko"><img alt="PayPal" src="https://img.shields.io/badge/PayPal-00457C?style=flat&logo=paypal&logoColor=white"/></a> &nbsp;
     <a target="_blank" href="https://ko-fi.com/imkuroneko"><img alt="KoFi" src="https://img.shields.io/badge/Ko--fi-F16061?style=flat&logo=ko-fi&logoColor=white"/></a>
+</p>
+
+
+<br>
+
+<h3 align="center"> 🌎 Visitors </h3>
+<p align="center">
+    <a href="https://www.flagcounter.me/details/dc6"><img src="https://www.flagcounter.me/dc6/" alt="Powered by FlagCounter"></a>
 </p>
