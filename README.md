@@ -1,16 +1,9 @@
-<img align="left" src="https://raw.githubusercontent.com/imkuroneko/imkuroneko/main/kuroneko.png" width="20%">
-
-<br> <br>
-
 <h2 align="center"> 🦄 About Me </h2>
-
 <p align="center">
-👰🏻⠀26 years old &nbsp; 🌈⠀LGBT (She/Her) &nbsp; 🌎⠀From LATAM &nbsp; 🍕⠀Foodie &nbsp; 🎥⠀Streamer <br>
-🎮⠀Gamer &nbsp; 💬⠀Spanish and English &nbsp; ⚡⠀WebDev & DBA FullTime &nbsp; 🦄⠀Mother of unicorns
+    👰🏻⠀26 years old &nbsp; 🌈⠀LGBT (She/Her) &nbsp; 🌎⠀From LATAM &nbsp; 🍕⠀Foodie &nbsp; 🎥⠀Streamer <br>
+    🎮⠀Gamer &nbsp; 💬⠀Spanish and English &nbsp; ⚡⠀WebDev & DBA FullTime &nbsp; 🦄⠀Mother of unicorns
 </p>
-
 <br>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=imkuroneko&label=Vistas+del+perfil&color=blueviolet&style=plastic"/> </p>
 
 <br><br>
@@ -30,9 +23,11 @@
     <a target="_blank" href="https://mas.to/@kuroneko"><img alt="Mastodon" src="https://img.shields.io/badge/Mastodon-595aff?style=flat&logo=Mastodon&logoColor=white"/></a>
     &nbsp;
     <a target="_blank" href="https://ko-fi.com/imkuroneko"><img alt="KoFi" src="https://img.shields.io/badge/Ko--fi-F16061?style=flat&logo=ko-fi&logoColor=white"/></a>
+    &nbsp;
+    <a target="_blank" href="https://paypal.me/imkuroneko"><img alt="PayPal" src="https://img.shields.io/badge/PayPal-00457C?style=flat&logo=paypal&logoColor=white"/></a>
 </p>
 
-<br>
+<br><br>
 
 <h2 align="center"> 💻 Tech Stacks </h2>
 <p align="center">
@@ -63,7 +58,7 @@
     <img alt="PM2" src="https://img.shields.io/badge/PM2-%2336117e.svg?style=flat&logo=PM2&logoColor=white"/>
 </p>
 
-<br>
+<br><br>
 
 <h2 align="center"> 📊 GitHub Stats </h2>
 <p align="center">
@@ -71,10 +66,8 @@
     <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imkuroneko&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
 </p>
 
-<br>
+<br><br><br>
 
-<h2 align="center"> 💰 You can help me by Donating </h2>
 <p align="center">
-    <a target="_blank" href="https://paypal.me/imkuroneko"><img alt="PayPal" src="https://img.shields.io/badge/PayPal-00457C?style=flat&logo=paypal&logoColor=white"/></a> &nbsp;
-    <a target="_blank" href="https://ko-fi.com/imkuroneko"><img alt="KoFi" src="https://img.shields.io/badge/Ko--fi-F16061?style=flat&logo=ko-fi&logoColor=white"/></a>
+    <img width="10%" src="https://raw.githubusercontent.com/imkuroneko/imkuroneko/main/kuroneko.png">
 </p>
