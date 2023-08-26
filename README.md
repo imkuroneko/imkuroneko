@@ -1,7 +1,7 @@
 <h2 align="center"> 🦄 About Me </h2>
 <p align="center">
     👰🏻⠀27 years old &nbsp; 🌈⠀LGBT (She/Her) &nbsp; 🌎⠀From LATAM &nbsp; 🍕⠀Foodie &nbsp; 🎥⠀Streamer <br>
-    🎮⠀Gamer &nbsp; 💬⠀Spanish and English &nbsp; ⚡⠀WebDev & DBA FullTime &nbsp; 🦄⠀Mother of unicorns
+    🎮⠀Gamer &nbsp; 💬⠀Spanish and English &nbsp; ⚡⠀WebDev Senior FullStack & DBA FullTime &nbsp; 🦄⠀Mother of unicorns
 </p>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=imkuroneko&label=Vistas+del+perfil&color=blueviolet&style=plastic"/> </p>
