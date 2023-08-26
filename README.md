@@ -20,7 +20,7 @@
     &nbsp;
     <a target="_blank" href="https://keybase.io/imkuroneko"><img alt="Keybase" src="https://img.shields.io/badge/Keybase-25c8f5?style=flat&logo=keybase&logoColor=white"/></a>
     &nbsp;
-    <a target="_blank" href="https://mas.to/@kuroneko"><img alt="Mastodon" src="https://img.shields.io/badge/Mastodon-595aff?style=flat&logo=Mastodon&logoColor=white"/></a>
+    <a target="_blank" href="https://mas.to/@imkuroneko"><img alt="Mastodon" src="https://img.shields.io/badge/Mastodon-595aff?style=flat&logo=Mastodon&logoColor=white"/></a>
     &nbsp;
     <a target="_blank" href="https://ko-fi.com/imkuroneko"><img alt="KoFi" src="https://img.shields.io/badge/Ko--fi-F16061?style=flat&logo=ko-fi&logoColor=white"/></a>
     &nbsp;
