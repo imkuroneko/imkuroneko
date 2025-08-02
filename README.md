@@ -1,6 +1,6 @@
 <h2 align="center"> 🦄 About Me </h2>
 <p align="center">
-    👰🏻⠀28 years old &nbsp; 🌈⠀LGBT (She/Her) &nbsp; 🌎⠀From LATAM &nbsp; 🍕⠀Foodie &nbsp; 🎥⠀Streamer <br>
+    👰🏻⠀29 years old &nbsp; 🌈⠀LGBT (She/Her) &nbsp; 🌎⠀From LATAM &nbsp; 🍕⠀Foodie &nbsp; 🎥⠀Streamer <br>
     🎮⠀Gamer &nbsp; 💬⠀Spanish and English &nbsp; ⚡⠀WebDev Senior FullStack & DBA FullTime &nbsp; 🦄⠀Mother of unicorns
 </p>
 <br>
