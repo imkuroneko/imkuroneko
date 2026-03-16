@@ -48,7 +48,6 @@
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white"/> &nbsp;
     <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/> &nbsp;
     <img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white"/> &nbsp;
-    <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase"/> &nbsp;
     <img alt="SQLite" src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/>
 </p>
 <p align="center">
