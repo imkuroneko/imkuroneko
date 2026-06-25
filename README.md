@@ -1,74 +1,133 @@
-<h2 align="center"> 🦄 About Me </h2>
-<p align="center">
-    👰🏻⠀29 years old &nbsp; 🌈⠀LGBT (She/Her) &nbsp; 🌎⠀From LATAM &nbsp; 🍕⠀Foodie &nbsp; 🎥⠀Streamer <br>
-    🎮⠀Gamer &nbsp; 💬⠀Spanish and English &nbsp; ⚡⠀WebDev Senior FullStack & DBA FullTime &nbsp; 🦄⠀Mother of unicorns
-</p>
-<br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=imkuroneko&label=Vistas+del+perfil&color=blueviolet&style=plastic"/> </p>
+<div align="center">
 
-<br><br>
+<!-- ✨ HEADER ✨ -->
 
-<h2 align="center"> 🌐 Socials </h2>
-<p align="center">
-    <a target="_blank" href="https://discord.gg/wrMcTef"><img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"/></a>
-    &nbsp;
-    <a target="_blank" href="https://instagram.com/im_kuroneko"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
-    &nbsp;
-    <a target="_blank" href="https://twitch.tv/im_kuroneko"><img alt="Twitch" src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white"/></a>
-    &nbsp;
-    <a target="_blank" href="https://twitter.com/im_kuroneko"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"/></a>
-    &nbsp;
-    <a target="_blank" href="https://keybase.io/imkuroneko"><img alt="Keybase" src="https://img.shields.io/badge/Keybase-25c8f5?style=flat&logo=keybase&logoColor=white"/></a>
-    &nbsp;
-    <a target="_blank" href="https://mas.to/@imkuroneko"><img alt="Mastodon" src="https://img.shields.io/badge/Mastodon-595aff?style=flat&logo=Mastodon&logoColor=white"/></a>
-    &nbsp;
-    <a target="_blank" href="https://ko-fi.com/imkuroneko"><img alt="KoFi" src="https://img.shields.io/badge/Ko--fi-F16061?style=flat&logo=ko-fi&logoColor=white"/></a>
-    &nbsp;
-    <a target="_blank" href="https://paypal.me/imkuroneko"><img alt="PayPal" src="https://img.shields.io/badge/PayPal-00457C?style=flat&logo=paypal&logoColor=white"/></a>
-</p>
+# 🌙 Hola, soy KuroNeko ✨
 
-<br><br>
+**「 FullStack Dev · Cat · Witch · Builder of Things 」**
 
-<h2 align="center"> 💻 Tech Stacks </h2>
-<p align="center">
-    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"/> &nbsp;
-    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white"/> &nbsp;
-    <img alt="jQuery" src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white"/> &nbsp;
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/> &nbsp;
-    <img alt="electron.js" src="https://img.shields.io/badge/Electron-191970?style=flat&logo=Electron&logoColor=white"/> &nbsp;
-    <img alt="react" src="https://img.shields.io/badge/React-%2361dbfb?style=flat&logo=React&logoColor=white"/>
-</p>
-<p align="center">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white"/> &nbsp;
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"/> &nbsp;
-    <img alt="Lua" src="https://img.shields.io/badge/Lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white"/> &nbsp;
-    <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-6DA55F?style=flat&logo=node.js&logoColor=white"/>
-</p>
-<p align="center">
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white"/> &nbsp;
-    <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/> &nbsp;
-    <img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white"/> &nbsp;
-    <img alt="SQLite" src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/>
-</p>
-<p align="center">
-    <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white"/> &nbsp;
-    <img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white"/> &nbsp;
-    <img alt="Vultr" src="https://img.shields.io/badge/Vultr-%230167ff.svg?style=flat&logo=vultr&logoColor=white"/> &nbsp;
-    <img alt="Railway" src="https://img.shields.io/badge/Railway-%23a335df.svg?style=flat&logo=Railway&logoColor=white"/> &nbsp;
-    <img alt="Vercel" src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white"/> &nbsp;
-    <img alt="PM2" src="https://img.shields.io/badge/PM2-%2336117e.svg?style=flat&logo=PM2&logoColor=white"/>
-</p>
+<br/>
 
-<br><br>
+[![Web](https://img.shields.io/badge/🌐_web-kuroneko.im-c9b8f0?style=for-the-badge&logoColor=white)](https://kuroneko.im)
+[![Instagram](https://img.shields.io/badge/📷_instagram-@imkuroneko-f0a0c8?style=for-the-badge&logoColor=white)](https://instagram.com/imkuroneko)
+[![Keybase](https://img.shields.io/badge/🔑_keybase-imkuroneko-a0e8c0?style=for-the-badge&logoColor=white)](https://keybase.io/imkuroneko)
 
-<h2 align="center"> 📊 GitHub Stats </h2>
-<p align="center">
-    <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=imkuroneko&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true"/> &nbsp;
-    <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imkuroneko&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
-</p>
+</div>
 
-<br><br><br>
+<div align="center">
 
-<p align="center">
-    <img width="10%" src="https://raw.githubusercontent.com/imkuroneko/imkuroneko/main/kuroneko.png">
-</p>
+<br/>
+
+## 🐾 Sobre mí
+
+</div>
+
+```
+🔮 FullStack Senior con tendencias al caos organizado
+🌿 Apasionada de construir herramientas que realmente sirvan
+🐈 Cat, obviously
+🦄 Madre de unicornios
+✨ Cuando no estoy debuggeando, estoy aprendiendo de ocultismo & esoterismo
+📍 Paraguay
+```
+
+<br/><br/>
+
+<div align="center">
+
+## 🌿 Stack & Herramientas
+
+<!-- Frontend -->
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-111118?style=flat-square&logo=html5&logoColor=f0a0c8)
+![CSS3](https://img.shields.io/badge/CSS3-111118?style=flat-square&logo=css3&logoColor=a0b8f0)
+![JavaScript](https://img.shields.io/badge/JavaScript-111118?style=flat-square&logo=javascript&logoColor=f0e080)
+![TypeScript](https://img.shields.io/badge/TypeScript-111118?style=flat-square&logo=typescript&logoColor=a0c8f0)
+![React](https://img.shields.io/badge/React-111118?style=flat-square&logo=react&logoColor=88d8f0)
+![Vite](https://img.shields.io/badge/Vite-111118?style=flat-square&logo=vite&logoColor=c9b8f0)
+![Next.js](https://img.shields.io/badge/Next.js-111118?style=flat-square&logo=next.js&logoColor=ffffff)
+![Tailwind](https://img.shields.io/badge/Tailwind-111118?style=flat-square&logo=tailwindcss&logoColor=88d8f0)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-111118?style=flat-square&logo=bootstrap&logoColor=c9b8f0)
+![Markdown](https://img.shields.io/badge/Markdown-111118?style=flat-square&logo=markdown&logoColor=aaaaaa)
+
+<!-- Backend -->
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-111118?style=flat-square&logo=node.js&logoColor=a0e8c0)
+![Express](https://img.shields.io/badge/Express-111118?style=flat-square&logo=express&logoColor=ffffff)
+![PHP](https://img.shields.io/badge/PHP-111118?style=flat-square&logo=php&logoColor=c9b8f0)
+![Discord.js](https://img.shields.io/badge/Discord.js-111118?style=flat-square&logo=discord&logoColor=a0a8f0)
+![Sequelize](https://img.shields.io/badge/Sequelize-111118?style=flat-square&logo=sequelize&logoColor=88d8f0)
+![Socket.io](https://img.shields.io/badge/Socket.io-111118?style=flat-square&logo=socketdotio&logoColor=ffffff)
+![JWT](https://img.shields.io/badge/JWT-111118?style=flat-square&logo=jsonwebtokens&logoColor=f0c888)
+![Axios](https://img.shields.io/badge/Axios-111118?style=flat-square&logo=axios&logoColor=c9b8f0)
+![Nodemailer](https://img.shields.io/badge/Nodemailer-111118?style=flat-square&logo=nodemailer&logoColor=a0e8c0)
+
+<!-- Data -->
+### Datos & Caché
+
+![MySQL](https://img.shields.io/badge/MySQL-111118?style=flat-square&logo=mysql&logoColor=f0c888)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111118?style=flat-square&logo=postgresql&logoColor=a0c8f0)
+![SQLite](https://img.shields.io/badge/SQLite-111118?style=flat-square&logo=sqlite&logoColor=88d8f0)
+![Redis](https://img.shields.io/badge/Redis-111118?style=flat-square&logo=redis&logoColor=f0a0a0)
+
+<!-- Infra -->
+### Infra & Deploy
+
+![Cloudflare](https://img.shields.io/badge/Cloudflare-111118?style=flat-square&logo=cloudflare&logoColor=f0c888)
+![Cloudflare Pages](https://img.shields.io/badge/CF_Pages-111118?style=flat-square&logo=cloudflarepages&logoColor=f0c888)
+![Cloudflare Workers](https://img.shields.io/badge/CF_Workers-111118?style=flat-square&logo=cloudflare&logoColor=f0d888)
+![Vercel](https://img.shields.io/badge/Vercel-111118?style=flat-square&logo=vercel&logoColor=ffffff)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-111118?style=flat-square&logo=ubuntu&logoColor=f0a060)
+![GitHub](https://img.shields.io/badge/GitHub-111118?style=flat-square&logo=github&logoColor=ffffff)
+![Grafana](https://img.shields.io/badge/Grafana-111118?style=flat-square&logo=grafana&logoColor=f0a060)
+![Mastodon](https://img.shields.io/badge/Mastodon-111118?style=flat-square&logo=mastodon&logoColor=a0a8f0)
+
+### IA & Tools
+
+![Claude](https://img.shields.io/badge/Claude-111118?style=flat-square&logo=anthropic&logoColor=c9b8f0)
+![VSCode](https://img.shields.io/badge/VSCode-111118?style=flat-square&logo=visualstudiocode&logoColor=88d8f0)
+![GitHub](https://img.shields.io/badge/GitHub-111118?style=flat-square&logo=github&logoColor=ffffff)
+![Bruno](https://img.shields.io/badge/Bruno-111118?style=flat-square&logo=bruno&logoColor=f0c888)
+![PM2](https://img.shields.io/badge/PM2-111118?style=flat-square&logo=pm2&logoColor=a0e8c0)
+![Caddy](https://img.shields.io/badge/Caddy-111118?style=flat-square&logo=caddy&logoColor=c9b8f0)
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+
+## 🔮 Proyectos Destacados
+
+| proyecto | descripción |
+|----------|-------------|
+| 🧾 **[Facty](https://facty.net)** | Plataforma de facturación para PyMES de Paraguay |
+| 🍴 **Foody (Soon)** | Plataforma de facturación, toma de pedidos y reservaciones para comercios gastronómicos de Paraguay |
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌸 stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imkuroneko&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=c9b8f0&icon_color=f0a0c8&text_color=b8a9d9&ring_color=9d7fe8)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imkuroneko&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=c9b8f0&text_color=b8a9d9&langs_count=8)
+
+![Streak](https://streak-stats.demolab.com?user=imkuroneko&theme=tokyonight&hide_border=true&background=0d0d1a&ring=9d7fe8&fire=f0a0c8&currStreakLabel=c9b8f0&sideLabels=b8a9d9&dates=6b5a8a&currStreakNum=c9b8f0&sideNums=b8a9d9)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+*🌙 hecha con código, café y un poco de magia ✨*
+
+</div>
