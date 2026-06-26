@@ -2,7 +2,7 @@
 
 <!-- ✨ HEADER ✨ -->
 
-# 🌙 Hola, soy KuroNeko ✨
+# Hola! Soy KuroNeko 🦄
 
 **「 FullStack Dev · Cat · Witch · Builder of Things 」**
 
