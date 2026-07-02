@@ -53,9 +53,9 @@
 
 <!-- Backend -->
 ### Backend
-
 ![Node.js](https://img.shields.io/badge/Node.js-111118?style=flat-square&logo=node.js&logoColor=a0e8c0)
 ![Express](https://img.shields.io/badge/Express-111118?style=flat-square&logo=express&logoColor=ffffff)
+![Bun](https://img.shields.io/badge/Bun-111118?style=flat-square&logo=bun&logoColor=ffffff)
 ![PHP](https://img.shields.io/badge/PHP-111118?style=flat-square&logo=php&logoColor=c9b8f0)
 ![Discord.js](https://img.shields.io/badge/Discord.js-111118?style=flat-square&logo=discord&logoColor=a0a8f0)
 ![Sequelize](https://img.shields.io/badge/Sequelize-111118?style=flat-square&logo=sequelize&logoColor=88d8f0)
@@ -87,7 +87,7 @@
 ### IA & Tools
 
 ![Claude](https://img.shields.io/badge/Claude-111118?style=flat-square&logo=anthropic&logoColor=c9b8f0)
-![VSCode](https://img.shields.io/badge/VSCode-111118?style=flat-square&logo=visualstudiocode&logoColor=88d8f0)
+![VSCode](https://img.shields.io/badge/VSCode-111118?style=flat-square&logo=codecademy&logoColor=88d8f0)
 ![GitHub](https://img.shields.io/badge/GitHub-111118?style=flat-square&logo=github&logoColor=ffffff)
 ![Bruno](https://img.shields.io/badge/Bruno-111118?style=flat-square&logo=bruno&logoColor=f0c888)
 ![PM2](https://img.shields.io/badge/PM2-111118?style=flat-square&logo=pm2&logoColor=a0e8c0)
