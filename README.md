@@ -1,10 +1,8 @@
 <div align="center">
 
-# こんいちは、KuroNekoです 🐈‍⬛✨
-
-### FullStack Developer · Builder of Things · Professional Bug Creator
-
-*building useful things with code, caffeine & a suspicious amount of purple*
+# Hello, I'm KuroNeko 🐈‍⬛✨
+### FullStack Developer · Builder of Things
+I turn ideas into software ~ and small projects into entire platforms.
 
 <br/>
 
@@ -23,12 +21,37 @@ const kuroneko = {
     role: "Senior FullStack Developer",
     location: "Paraguay 🇵🇾",
 
-    likes: [
-        "building useful things",
-        "pretty interfaces",
+    builds: [
+        "web apps",
+        "internal tools",
+        "APIs",
+        "ERP-ish things",
         "automation",
-        "clean APIs",
-        "cats",
+        "things that somehow became entire platforms"
+    ],
+
+    enjoys: [
+        "clean and comfy interfaces",
+        "solving weird problems",
+        "backend architecture",
+        "automation",
+        "polishing tiny UX details",
+        "building things from scratch"
+    ],
+
+    caresAbout: [
+        "good developer experience",
+        "maintainable code",
+        "useful software",
+        "simple solutions",
+        "making software feel nice to use"
+    ],
+
+    poweredBy: [
+        "caffeine",
+        "curiosity",
+        "purple",
+        "cats 🐈‍⬛",
         "unicorns 🦄"
     ],
 
@@ -43,6 +66,9 @@ I build web applications, internal tools, APIs and occasionally things that star
 
 I enjoy working across the whole stack — from designing interfaces to databases,
 infrastructure, deployments and all the tiny details in between.
+
+Most of the time I end up somewhere between software architecture, UI polish,
+automation and fixing a problem that probably didn't exist yesterday.
 
 <br/>
 
@@ -69,9 +95,9 @@ infrastructure, deployments and all the tiny details in between.
 
 ### Data
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111118?style=for-the-badge\&logo=postgresql\&logoColor=4169E1)
 ![MySQL](https://img.shields.io/badge/MySQL-111118?style=for-the-badge\&logo=mysql\&logoColor=4479A1)
 ![MariaDB](https://img.shields.io/badge/MariaDB-111118?style=for-the-badge\&logo=mariadb\&logoColor=C0765A)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111118?style=for-the-badge\&logo=postgresql\&logoColor=4169E1)
 ![SQLite](https://img.shields.io/badge/SQLite-111118?style=for-the-badge\&logo=sqlite\&logoColor=7CC7E8)
 ![Redis](https://img.shields.io/badge/Redis-111118?style=for-the-badge\&logo=redis\&logoColor=FF4438)
 
@@ -102,7 +128,7 @@ Una plataforma pensada para hacer que facturar sea menos doloroso y un poquito m
 
 **Web:** [facty.net](https://facty.net)
 
-`React` `Node.js` `MySQL`
+`React` `Node.js` `PostgreSQL`
 
 </td>
 <td width="50%" valign="top">
@@ -114,7 +140,7 @@ Una plataforma pensada para hacer que facturar sea menos doloroso y un poquito m
 Pedidos, gestión, operaciones y todas esas cosas que aparecen después de decir
 *"solo necesitamos tomar pedidos"*.
 
-`FullStack` `ERP` `Gastronomía`
+`React` `Node.js` `PostgreSQL`
 
 </td>
 </tr>
@@ -129,6 +155,8 @@ Pedidos, gestión, operaciones y todas esas cosas que aparecen después de decir
 🦄 Certified unicorn enthusiast
 🎨 UI enjoyer
 ☕ Powered by caffeine
+🧩 Enjoys solving oddly specific problems
+🪄 Turns small ideas into suspiciously large systems
 🔮 Occasionally interested in things that cannot be debugged
 💜 Purple is basically a requirement
 ```
