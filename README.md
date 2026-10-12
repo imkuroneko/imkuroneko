@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hello, I'm KuroNeko 🐈‍⬛✨
-### FullStack Developer · Builder of Things
-I turn ideas into software ~ and small projects into entire platforms.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c4b5fd,100:f979d2&height=200&section=header&text=KuroNeko&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=FullStack%20Developer%20%C2%B7%20Builder%20of%20Things&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=C4B5FD&center=true&vCenter=true&width=520&height=40&lines=I+turn+ideas+into+software+%E2%9C%A8;and+small+projects+into+entire+platforms+%F0%9F%AA%84;probably+debugging+something+%F0%9F%90%88%E2%80%8D%E2%AC%9B" alt="typing animation" />
 
 <br/>
 
@@ -10,11 +10,15 @@ I turn ideas into software ~ and small projects into entire platforms.
 [![Instagram](https://img.shields.io/badge/@imkuroneko-f979d2?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/imkuroneko)
 [![GitHub](https://img.shields.io/badge/imkuroneko-a78bfa?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/imkuroneko)
 
+<br/>
+
+`✦ ･ﾟ: *✧･ﾟ:*　　*:･ﾟ✧*:･ﾟ✦`
+
 </div>
 
 <br/>
 
-## 🐈‍⬛ About me
+## 🐈‍⬛ About me ₍^. .^₎⟆
 
 ```js
 const kuroneko = {
@@ -62,21 +66,27 @@ const kuroneko = {
 ```
 
 I build web applications, internal tools, APIs and occasionally things that started as
-*"esto debería ser rápido"* and somehow became an entire platform.
+*"esto debería ser rápido"* and somehow became an entire platform ✨
 
 I enjoy working across the whole stack — from designing interfaces to databases,
 infrastructure, deployments and all the tiny details in between.
 
 Most of the time I end up somewhere between software architecture, UI polish,
-automation and fixing a problem that probably didn't exist yesterday.
+automation and fixing a problem that probably didn't exist yesterday 🌷
 
 <br/>
+
+<div align="center">
+
+`⋆｡°✩ ˚｡⋆🌙⋆｡˚ ✩°｡⋆`
+
+</div>
 
 ## ✦ Things I work with
 
 <div align="center">
 
-### Frontend
+### 🎀 Frontend
 
 ![React](https://img.shields.io/badge/React-111118?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111118?style=for-the-badge\&logo=typescript\&logoColor=3178C6)
@@ -85,7 +95,7 @@ automation and fixing a problem that probably didn't exist yesterday.
 ![Next.js](https://img.shields.io/badge/Next.js-111118?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-111118?style=for-the-badge\&logo=tailwindcss\&logoColor=38BDF8)
 
-### Backend
+### 🔮 Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-111118?style=for-the-badge\&logo=nodedotjs\&logoColor=5FA04E)
 ![Express](https://img.shields.io/badge/Express-111118?style=for-the-badge\&logo=express\&logoColor=white)
@@ -93,7 +103,7 @@ automation and fixing a problem that probably didn't exist yesterday.
 ![Socket.io](https://img.shields.io/badge/Socket.io-111118?style=for-the-badge\&logo=socketdotio\&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-111118?style=for-the-badge\&logo=sequelize\&logoColor=52B0E7)
 
-### Data
+### 🍡 Data
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111118?style=for-the-badge\&logo=postgresql\&logoColor=4169E1)
 ![MySQL](https://img.shields.io/badge/MySQL-111118?style=for-the-badge\&logo=mysql\&logoColor=4479A1)
@@ -101,7 +111,7 @@ automation and fixing a problem that probably didn't exist yesterday.
 ![SQLite](https://img.shields.io/badge/SQLite-111118?style=for-the-badge\&logo=sqlite\&logoColor=7CC7E8)
 ![Redis](https://img.shields.io/badge/Redis-111118?style=for-the-badge\&logo=redis\&logoColor=FF4438)
 
-### Infra & Tools
+### ☁️ Infra & Tools
 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-111118?style=for-the-badge\&logo=cloudflare\&logoColor=F38020)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-111118?style=for-the-badge\&logo=ubuntu\&logoColor=E95420)
@@ -114,11 +124,38 @@ automation and fixing a problem that probably didn't exist yesterday.
 
 <br/>
 
+<div align="center">
+
+`⋆｡°✩ ˚｡⋆🪄⋆｡˚ ✩°｡⋆`
+
+</div>
+
 ## 🪄 Selected projects
+
+<!--
+  TABLA HORIZONTAL: cada <td> es un proyecto y se reparten el ancho solos.
+  Para agregar uno nuevo, copia una celda completa y pegala al lado.
+  (Si prefieres 2 por fila, cierra con </tr> y abre otro <tr>.)
+
+  <td align="center" valign="top">
+
+  ### 🌸 Nombre
+
+  **Descripción corta.**
+
+  Texto un poco más largo y simpático.
+
+  **Web:** [dominio.com](https://dominio.com)
+
+  `Tech` `Tech` `Tech`
+
+  </td>
+-->
 
 <table>
 <tr>
-<td width="50%" valign="top">
+
+<td align="center" valign="top">
 
 ### 🧾 Facty
 
@@ -131,7 +168,8 @@ Una plataforma pensada para hacer que facturar sea menos doloroso y un poquito m
 `React` `Node.js` `PostgreSQL`
 
 </td>
-<td width="50%" valign="top">
+
+<td align="center" valign="top">
 
 ### 🔥 Fogoncito
 
@@ -143,6 +181,7 @@ Pedidos, gestión, operaciones y todas esas cosas que aparecen después de decir
 `React` `Node.js` `PostgreSQL`
 
 </td>
+
 </tr>
 </table>
 
@@ -179,8 +218,6 @@ Pedidos, gestión, operaciones y todas esas cosas que aparecen después de decir
 
 <br/>
 
----
-
 <div align="center">
 
 ### 🐈‍⬛ kuroneko.im
@@ -188,5 +225,7 @@ Pedidos, gestión, operaciones y todas esas cosas que aparecen después de decir
 *code · cats · caffeine · controlled chaos*
 
 `</> with 💜 from Paraguay`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f979d2,100:c4b5fd&height=110&section=footer" width="100%" />
 
 </div>
